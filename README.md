@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskyexpertog&label=Profile%20views&color=0e75b6&style=flat" alt="riskyexpertog" /> </p>
 
-- 🔭 I’m currently working on [banka](https://www.banka.gr)
+- 🔭 I’m currently studying for my finals.
 
 - 📫 How to reach me **riskyexpert@mcportal.net**
 
