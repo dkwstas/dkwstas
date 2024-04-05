@@ -5,7 +5,7 @@
 
 - 🔭 Electrical & Computer Engineering | UTh
 
-- 📫 How to reach me **riskyexpert@mcportal.net**
+- 📫 How to reach me **kdrakontidis@uth.gr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
